@@ -8,6 +8,7 @@ div
     border-radius: 50px;
     margin: 1.5%;
     padding: 1.5%;
+    clear:both;
 }
 img
 {
@@ -49,4 +50,10 @@ header nav ul li a
 {
     color: #8ecfa2;
     font-size: 25px;
+}
+.Articulo
+{
+    display: inline-block;
+    margin: 1%;
+    width:28%
 }
