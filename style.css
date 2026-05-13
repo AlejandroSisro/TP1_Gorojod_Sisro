@@ -2,7 +2,7 @@ body
 {
     background-color: #241a16;
 }
-div
+section
 {
     background-color: #89c97b;
     border-radius: 50px;
@@ -14,22 +14,20 @@ img
 {
     border-radius: 50px;
 }
-section div img
+main section img
 {
     width: 100%;
 }
-section div article img
-{
-    width:20%
-}
-article
+main section div
 {
     background-color: #bbd8a5;
     border-radius: 50px;
     margin: 1.5%;
     padding: 1.5%;
+    display: inline-block;
+    width:26%;
 }
-header h1
+h1
 {
     color: #f6e6df;
     font-size: 50px;
@@ -50,10 +48,4 @@ header nav ul li a
 {
     color: #8ecfa2;
     font-size: 25px;
-}
-.Articulo
-{
-    display: inline-block;
-    margin: 1%;
-    width:28%
 }
