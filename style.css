@@ -27,7 +27,6 @@ main section div
     display: inline-block;
     width:27%;
 }
-
 h1
 {
     color: #f6e6df;
@@ -39,6 +38,12 @@ h2
 {
     color: #000000;
     font-size: 40px;
+    text-decoration: none;
+}
+h3
+{
+    color: #000000;
+    font-size: 25px;
     text-decoration: none;
 }
 header nav ul li
