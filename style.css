@@ -113,3 +113,11 @@ footer h3
 {
     color: #8ecfa2;
 }
+.Mecanicas
+{
+    clear:none;
+}
+.Mecanicas div
+{
+    width:50%;
+}
