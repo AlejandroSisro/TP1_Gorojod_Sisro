@@ -17,6 +17,75 @@ img
 main section img
 {
     width: 100%;
+}
+main section div
+{
+    background-color: #bbd8a5;
+    border-radius: 50px;
+    margin: 1.5%;
+    padding: 1.5%;
+    display: inline-block;
+    width:27%;
+}
+
+h1
+{
+    color: #f6e6df;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+h2
+{
+    color: #000000;
+    font-size: 40px;
+    text-decoration: none;
+}
+header nav ul li
+{
+    display: inline-block;
+    margin: 1%;
+}
+header nav
+{
+    background-color: #5e6674;
+    border-radius: 50px;
+}
+header nav ul li a
+{
+    color: #8ecfa2;
+}
+a
+{
+    font-size: 25px;
+}
+li
+{
+    font-size: 19px;
+}
+p
+{
+    font-size: 19px;
+}
+.ReseñaNegativa
+{
+    height:20%;
+}
+footer
+{
+    background-color: #5e6674;
+    border-radius: 50px;
+    margin: 1.5%;
+    padding: 1.5%;
+}
+footer img
+{
+    width:3%;
+    border-radius: 100px;
+}
+main section img
+{
+    width: 100%;
     padding-top: 8%;
 }
 main section div
@@ -35,39 +104,12 @@ header{
     background-color: #241a16;
     padding-right: 36%;
     padding-left: 33%;
-    border-radius: 50px;
 }
-
-h1
-{
-    color: #f6e6df;
-    font-size: 50px;
-    text-align: center;
-    text-decoration: underline;
-}
-header nav ul li
-{
-    display: inline-block;
-    margin: 1%;
-}
-header nav
-{
-    background-color: #5e6674;
-    border-radius: 50px;
-}
-header nav ul li a
+footer h2
 {
     color: #8ecfa2;
-    font-size: 25px;
 }
-.ReseñaNegativa
+footer h3
 {
-    height:20%;
-}
-footer
-{
-    background-color: #5e6674;
-    border-radius: 50px;
-    margin: 1.5%;
-    padding: 1.5%;
+    color: #8ecfa2;
 }
