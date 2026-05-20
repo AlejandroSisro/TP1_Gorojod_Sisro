@@ -164,7 +164,16 @@ footer h3
 {
     width:50%;
 }
+.Noticia
+{
+    width:75%;
+}
 .Noticia img
 {
     width:65%
+}
+.Form
+{
+    width:70%;
+    border: 1.5em solid #f6e6df;
 }
