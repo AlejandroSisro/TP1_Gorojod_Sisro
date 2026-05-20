@@ -91,7 +91,10 @@ footer img
 main section img
 {
     width: 100%;
-    padding-top: 8%;
+}
+main
+{
+    padding-top: 10%;
 }
 main section div
 {
