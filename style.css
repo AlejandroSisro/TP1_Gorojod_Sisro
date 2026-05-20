@@ -25,7 +25,10 @@ main section div
     margin: 1.5%;
     padding: 1.5%;
     display: inline-block;
-    width:27%;
+}
+main section div img
+{
+    width:80%;
 }
 h1
 {
