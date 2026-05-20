@@ -127,11 +127,14 @@ footer
 }
 footer img
 {
-    width:3%;
-    border-radius: 10em;
-    margin: 15%;
-    margin-bottom: 0%;
-    margin-top: 0%;
+    width:10%;
+    border-radius:10em;
+}
+article
+{
+    width:50%;
+    margin-left:42%;
+    margin-right:42%;
 }
 main section img
 {
