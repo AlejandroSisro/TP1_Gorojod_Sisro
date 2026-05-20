@@ -9,6 +9,9 @@ section
     margin: 1.5%;
     padding: 1.5%;
     clear:both;
+    margin-left: 30%;
+    margin-right: 30%;
+    width:50%;
 }
 img
 {
@@ -41,18 +44,21 @@ h2
 {
     color: #000000;
     font-size: 2em;
+    text-align: center;
     text-decoration: none;
 }
 h3
 {
     color: #000000;
     font-size: 1.5em;
+    text-align: center;
     text-decoration: none;
 }
 h4
 {
     color: #000000;
     font-size: 1em;
+    text-align: center;
     text-decoration: none;
 }
 header nav ul li
@@ -86,7 +92,7 @@ p
     border-radius: 2.5em;
     border: 1.5em solid #ff0000;
     clear:none;
-    width:50%;
+    width:70%;
 }
 .ReseñaNegativa img
 {
@@ -97,7 +103,7 @@ p
     border-radius: 2.5em;
     border: 1.5em solid #00ff15;
     clear:none;
-    width:50%;
+    width:70%;
 }
 .ReseñaPositiva img
 {
