@@ -5,14 +5,14 @@ body
 section
 {
     background-color: #89c97b;
-    border-radius: 50px;
+    border-radius: 5em;
     margin: 1.5%;
     padding: 1.5%;
     clear:both;
 }
 img
 {
-    border-radius: 50px;
+    border-radius: 5em;
 }
 main section img
 {
@@ -21,7 +21,7 @@ main section img
 main section div
 {
     background-color: #bbd8a5;
-    border-radius: 50px;
+    border-radius: 5em;
     margin: 1.5%;
     padding: 1.5%;
     display: inline-block;
@@ -33,20 +33,26 @@ main section div img
 h1
 {
     color: #f6e6df;
-    font-size: 50px;
+    font-size: 3em;
     text-align: center;
     text-decoration: underline;
 }
 h2
 {
     color: #000000;
-    font-size: 40px;
+    font-size: 2em;
     text-decoration: none;
 }
 h3
 {
     color: #000000;
-    font-size: 25px;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+h4
+{
+    color: #000000;
+    font-size: 1em;
     text-decoration: none;
 }
 header nav ul li
@@ -57,7 +63,7 @@ header nav ul li
 header nav
 {
     background-color: #5e6674;
-    border-radius: 50px;
+    border-radius: 5em;
 }
 header nav ul li a
 {
@@ -65,20 +71,20 @@ header nav ul li a
 }
 a
 {
-    font-size: 25px;
+    font-size: 1.5em;
 }
 li
 {
-    font-size: 19px;
+    font-size: 1em;
 }
 p
 {
-    font-size: 19px;
+    font-size: 1.3em;
 }
 .ReseñaNegativa
 {
-    border-radius: 25px;
-    border: 15px solid #ff0000;
+    border-radius: 2.5em;
+    border: 1.5em solid #ff0000;
     clear:none;
     width:50%;
 }
@@ -88,8 +94,8 @@ p
 }
 .ReseñaPositiva
 {
-    border-radius: 25px;
-    border: 15px solid #00ff15;
+    border-radius: 2.5em;
+    border: 1.5em solid #00ff15;
     clear:none;
     width:50%;
 }
@@ -100,14 +106,14 @@ p
 footer
 {
     background-color: #5e6674;
-    border-radius: 50px;
+    border-radius: 5em;
     margin: 1.5%;
     padding: 1.5%;
 }
 footer img
 {
     width:3%;
-    border-radius: 100px;
+    border-radius: 10em;
 }
 main section img
 {
@@ -115,12 +121,12 @@ main section img
 }
 main
 {
-    padding-top: 20%;
+    padding-top: 10%;
 }
 main section div
 {
     background-color: #bbd8a5;
-    border-radius: 50px;
+    border-radius: 5em;
     margin: 1.5%;
     padding: 1.5%;
     display: inline-block;
