@@ -77,7 +77,25 @@ p
 }
 .ReseñaNegativa
 {
-    height:20%;
+    border-radius: 25px;
+    border: 15px solid #ff0000;
+    clear:none;
+    width:50%;
+}
+.ReseñaNegativa img
+{
+    width:40%;
+}
+.ReseñaPositiva
+{
+    border-radius: 25px;
+    border: 15px solid #00ff15;
+    clear:none;
+    width:50%;
+}
+.ReseñaPositiva img
+{
+    width:40%;
 }
 footer
 {
@@ -97,7 +115,7 @@ main section img
 }
 main
 {
-    padding-top: 10%;
+    padding-top: 20%;
 }
 main section div
 {
